@@ -1,0 +1,8 @@
+LEER NumeroInicial
+Num1=100
+Num2=1000
+
+PARA contador= 100 MIENTRAS Num1+10 <= Num2 AUMENTA contador = contador+100
+escribe contador;
+
+ESCRIBE NumeroFinal

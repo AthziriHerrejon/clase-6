@@ -1,0 +1,7 @@
+LEER
+Peso=62
+PesoIdeal=55
+CambioDePeso=1
+
+
+PARA contador= = 1 MIENTRAS contador >=PesoIdeal DISMINUYE contador= contador -1
